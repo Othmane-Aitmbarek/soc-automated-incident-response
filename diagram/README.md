@@ -1,0 +1,1 @@
+The architecture diagram shown in the main README (ASCII flow) can be recreated as an image using draw.io, Excalidraw, or similar — see the SVG rendered in the chat conversation for a ready-made version, or take a screenshot of it and save it here as `architecture.png`.
