@@ -79,7 +79,3 @@ No false positives were observed across the tested scenarios. This constitutes a
 | Shuffle SOAR workflow canvas | `screenshots/04_shuffle_soar_workflow.png` |
 | Email notification | `screenshots/05_email_notification.png` |
 
-## Author
-
-Othmane Aitmbarek — 4th-year engineering student, Cybersecurity & Network Infrastructure, EMSI
-[LinkedIn](https://linkedin.com/in/othmaneaitmbarek) · [GitHub](https://github.com/Othmane-Aitmbarek)
