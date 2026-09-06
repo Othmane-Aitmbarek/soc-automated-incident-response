@@ -20,10 +20,10 @@ SHA256 hash extraction ── VirusTotal enrichment
 Groq LLM (openai/gpt-oss-120b) ── behavioral analysis of the payload
         │
         ▼
-Python sanitization ── clean Markdown/JSON into a readable summary
+TheHive ── incident ticket created
         │
         ▼
-TheHive ── incident ticket created
+Python sanitization ── clean Markdown/JSON into a readable summary
         │
         ▼
 Email notification (SMTP) ── analyst alerted
